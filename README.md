@@ -6,5 +6,5 @@
 
 * :exploding_head:  **Interested in understanding why things happen by digging into data to uncover relationships.** 
 
-* :monocle_face: **Projects on my Github page were created during my free time and hope you enjoy!**
+* :monocle_face: **Projects were created during my free time, enjoy!**
 
